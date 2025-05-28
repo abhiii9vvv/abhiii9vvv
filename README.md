@@ -6,7 +6,7 @@
 
 🎓 B.Tech CSE @ Sharda University, Greater Noida  
 💻 Web Dev & AI Enthusiast | Engineering Student  
-🚀 Building real-world tech solutions | Member of GitHub Club  
+🚀 Building real-world tech solutions
 📬 **Email:** abhinavv8975@gmail.com  
 🔗 **LinkedIn:** [abhinav-tiwary](https://www.linkedin.com/in/abhinav-tiwary-791a63302/)  
 🧠 **LeetCode:** [Abhiii9vv_](https://leetcode.com/u/Abhiii9vv_/)  
