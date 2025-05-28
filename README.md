@@ -1,9 +1,13 @@
 # 👋🏼 Hey there, I'm Abhinav Tiwary
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Professional coding animation" width="250" />
+</p>
+
 🎓 B.Tech CSE @ Sharda University, Greater Noida  
 💻 Web Dev & AI Enthusiast | Engineering Student  
 🚀 Building real-world tech solutions | Member of GitHub Club  
-📬 **Email:** gyanutiwari758@gmail.com  
+📬 **Email:** abhinavv8975@gmail.com  
 🔗 **LinkedIn:** [abhinav-tiwary](https://www.linkedin.com/in/abhinav-tiwary-791a63302/)  
 🧠 **LeetCode:** [Abhiii9vv_](https://leetcode.com/u/Abhiii9vv_/)  
 
@@ -27,6 +31,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
