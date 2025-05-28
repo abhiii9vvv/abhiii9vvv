@@ -1,7 +1,7 @@
 # 👋🏼 Hey there, I'm Abhinav Tiwary
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZhZGJ6bjUzaGpmM2Z3eGxtejh5eWY5ZWU3aWZuMjFxaGs2d2lmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" alt="Professional coding animation" width="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZhZGJ6bjUzaGpmM2Z3eGxtejh5eWY5ZWU3aWZuMjFxaGs2d2lmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Professional coding animation" width="250" />
 </p>
 
 🎓 B.Tech CSE @ Sharda University, Greater Noida  
