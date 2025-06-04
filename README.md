@@ -4,55 +4,58 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZhZGJ6bjUzaGpmM2Z3eGxtejh5eWY5ZWU3aWZuMjFxaGs2d2lmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Professional coding animation" width="250" />
 </p>
 
-🎓 B.Tech CSE @ Sharda University, Greater Noida  
-💻 Web Dev & AI Enthusiast | Engineering Student  
+🎓 B.Tech CSE @ Sharda University, Greater Noida
+💻 Web Dev & AI Enthusiast | Engineering Student
 🚀 Building real-world tech solutions
-📬 **Email:** abhinavv8975@gmail.com  
-🔗 **LinkedIn:** [abhinav-tiwary](https://www.linkedin.com/in/abhinav-tiwary-791a63302/)  
-🧠 **LeetCode:** [Abhiii9vv_](https://leetcode.com/u/Abhiii9vv_/)  
+📬 **Email:** [abhinavv8975@gmail.com](mailto:abhinavv8975@gmail.com)
+🔗 **LinkedIn:** [abhinav-tiwary](https://www.linkedin.com/in/abhinav-tiwary-791a63302/)
+🧠 **LeetCode:** [Abhiii9vv\_](https://leetcode.com/u/Abhiii9vv_/)
 
 ---
 
 ## 💼 Projects
-- 🔫 **Weapon Detection System** – YOLOv5 + ONNX for real-time alerts  
-- 🔍 **Price Tracker Website** – Live price updates + future graphs  
-- 🗣️ **VoiceVerse** – Python voice assistant for Windows  
-- 🌤️ **Weather App** – Real-time data using OpenWeather API  
-- ✅ **Animated To-do App** – Tasks with filtering, search, and localStorage
+
+* 🔫 **Weapon Detection System** – YOLOv5 + ONNX for real-time alerts
+* 🔍 **Price Tracker Website** – Live price updates + future graphs
+* 😤 **VoiceVerse** – Python voice assistant for Windows
+* ☀️ **Weather App** – Real-time data using OpenWeather API
+* ✅ **Animated To-do App** – Tasks with filtering, search, and localStorage
+* 💼 **Job Board** – Modern platform for Indian tech job seekers with glassmorphism UI & global opportunities
+* 🏛️ **Sharda Alumni Portal** – Connecting alumni with students and faculty (TypeScript-powered)
 
 ---
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=Firebase\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=abhiii9vvv&theme=radical&no-frame=true&margin-w=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=abhiii9vvv\&theme=radical\&no-frame=true\&margin-w=5)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=tokyonight)
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiii9vvv\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv\&theme=github-compact)
 
 ---
 
@@ -66,4 +69,4 @@
 
 ---
 
-⭐ _Thanks for visiting my profile! Let's build something awesome together._
+⭐ *Thanks for visiting my profile! Let's build something awesome together.*
