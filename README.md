@@ -35,7 +35,7 @@
 - 🌤️ [**Weather App**](https://github.com/abhiii9vvv/Weather_App): Real-time weather dashboard using OpenWeatherMap API and vanilla JS.
 - 🎯 [**Weapon Detection System**](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM): Real-time object detection app using YOLOv5 and ONNX to detect weapons in images, videos, and live feed.
 
-🌐 [**Check out my portfolio**](https://your-portfolio-link.vercel.app) *(Update this with your live portfolio URL)*
+🌐 [**Check out my portfolio**](https://codewithabhinav.vercel.app/)
 
 ---
 
