@@ -7,8 +7,9 @@
 📍 Greater Noida  
 📧 [gyanutiwari758@gmail.com](mailto:gyanutiwari758@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhinav-tiwary-791a63302/)  
-👨‍💻 [LeetCode](https://leetcode.com/u/Abhiii9vv_/)  
-![visitors](https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20views&color=0e75b6&style=flat)
+👨‍💻 [LeetCode](https://leetcode.com/u/Abhiii9vv_/)
+
+![Banner](https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/main/banner.png)
 
 ---
 
@@ -29,23 +30,27 @@
 
 ## 🚀 Featured Projects
 
-- 🔗 [**SHARDA Alumni Portal**](https://github.com/abhiii9vvv/SHARDA-ALUMNI-PORTAL): Full-stack MERN web app for alumni engagement — includes authentication, profiles, events, and job listings.
-- 💼 [**Job Board**](https://github.com/abhiii9vvv/Job_Board): A sleek and responsive platform built with Next.js and TailwindCSS to help techies discover job opportunities across India.
-- ❓ [**Quiz App**](https://github.com/abhiii9vvv/QuizAppLink): Interactive quiz platform with 75+ questions across 11 categories, XP system, and customizable themes.
-- ✅ [**To-Do List App**](https://github.com/abhiii9vvv/todo-list-by-abhinav): A beautiful, animated task manager with search, filtering, and local storage support.
-- 🌤️ [**Weather App**](https://github.com/abhiii9vvv/Weather_App): Real-time weather dashboard using OpenWeatherMap API and vanilla JS.
-- 🎯 [**Weapon Detection System**](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM): Real-time object detection app using YOLOv5 and ONNX to detect weapons in images, videos, and live feed.
+- 🔗 [**SHARDA Alumni Portal**](https://github.com/abhiii9vvv/SHARDA-ALUMNI-PORTAL)
+- 💼 [**Job Board**](https://github.com/abhiii9vvv/Job_Board)
+- ❓ [**Quiz App**](https://github.com/abhiii9vvv/QuizAppLink)
+- ✅ [**To-Do List App**](https://github.com/abhiii9vvv/todo-list-by-abhinav)
+- 🌤️ [**Weather App**](https://github.com/abhiii9vvv/Weather_App)
+- 🎯 [**Weapon Detection System**](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM)
 
 🌐 [**Check out my portfolio**](https://codewithabhinav.vercel.app/)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Visitor Count
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=tokyonight" height="160"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20views&color=blueviolet&style=flat" alt="visitor counter"/>
+</p>
 
 ---
 
