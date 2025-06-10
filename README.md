@@ -9,8 +9,6 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/abhinav-tiwary-791a63302/)  
 👨‍💻 [LeetCode](https://leetcode.com/u/Abhiii9vv_/)
 
-![Banner]()![ChatGPT Image Jun 10, 2025, 11_50_00 PM](https://github.com/user-attachments/assets/e0608554-8faf-4a7c-a85a-44e5470476df)
-
 
 ---
 
