@@ -7,7 +7,8 @@
 📍 Greater Noida  
 📧 [gyanutiwari758@gmail.com](mailto:gyanutiwari758@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhinav-tiwary-791a63302/)  
-👨‍💻 [LeetCode](https://leetcode.com/u/Abhiii9vv_/)
+👨‍💻 [LeetCode](https://leetcode.com/u/Abhiii9vv_/)  
+![visitors](https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -39,16 +40,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=abhiii9vvv&theme=radical&no-frame=true&margin-w=5)
-
----
-
 ## 📊 GitHub Stats
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=tokyonight" height="160"/>
+</div>
 
 ---
 
