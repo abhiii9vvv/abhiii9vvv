@@ -4,23 +4,8 @@
 🎓 **B.Tech CSE** @ Sharda University, Greater Noida  
 💻 Web Dev & AI Enthusiast | Engineering Student  
 🚀 Building real-world tech solutions  
-📬 **Email**: [abhinavv8975@gmail.com](mailto:abhinavv8975@gmail.com)  
-🔗 **LinkedIn**: [abhinav-tiwary](https://www.linkedin.com/in/abhinav-tiwary-791a63302/)  
-🧠 **LeetCode**: [Abhiii9vv_](https://leetcode.com/u/Abhiii9vv_/)
-
 ---
 
-## 💼 Projects
-
-- 🔫 **Weapon Detection System** – YOLOv5 + ONNX for real-time alerts  
-- 🔍 **Price Tracker Website** – Live price updates + future graphs  
-- 😤 **VoiceVerse** – Python voice assistant for Windows  
-- ☀️ **Weather App** – Real-time data using OpenWeather API  
-- ✅ **Animated To-do App** – Tasks with filtering, search, and localStorage  
-- 💼 **Job Board** – Modern platform for Indian tech job seekers with glassmorphism UI & global opportunities  
-- 🏛️ **Sharda Alumni Portal** – Connecting alumni with students and faculty (TypeScript-powered)
-
----
 
 ## 💻 Tech Stack
 
