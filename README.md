@@ -1,11 +1,15 @@
 # 👋🏼 Hey there, I'm Abhinav Tiwary
 
+🎓 **B.Tech in Computer Science** @ Sharda University, Greater Noida  
+💻 Web Developer & AI Enthusiast | Passionate about turning ideas into scalable solutions  
+🚀 Currently building full-stack projects that solve real-world problems
 
-🎓 **B.Tech CSE** @ Sharda University, Greater Noida  
-💻 Web Dev & AI Enthusiast | Engineering Student  
-🚀 Building real-world tech solutions  
+📍 Greater Noida  
+📧 [gyanutiwari758@gmail.com](mailto:gyanutiwari758@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhinav-tiwary-791a63302/)  
+👨‍💻 [LeetCode](https://leetcode.com/u/Abhiii9vv_/)
+
 ---
-
 
 ## 💻 Tech Stack
 
@@ -19,6 +23,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- 🔗 [**SHARDA Alumni Portal**](https://github.com/abhiii9vvv/SHARDA-ALUMNI-PORTAL): Full-stack MERN web app for alumni engagement — includes authentication, profiles, events, and job listings.
+- 💼 [**Job Board**](https://github.com/abhiii9vvv/Job_Board): A sleek and responsive platform built with Next.js and TailwindCSS to help techies discover job opportunities across India.
+- ❓ [**Quiz App**](https://github.com/abhiii9vvv/QuizAppLink): Interactive quiz platform with 75+ questions across 11 categories, XP system, and customizable themes.
+- ✅ [**To-Do List App**](https://github.com/abhiii9vvv/todo-list-by-abhinav): A beautiful, animated task manager with search, filtering, and local storage support.
+- 🌤️ [**Weather App**](https://github.com/abhiii9vvv/Weather_App): Real-time weather dashboard using OpenWeatherMap API and vanilla JS.
+- 🎯 [**Weapon Detection System**](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM): Real-time object detection app using YOLOv5 and ONNX to detect weapons in images, videos, and live feed.
+
+🌐 [**Check out my portfolio**](https://your-portfolio-link.vercel.app) *(Update this with your live portfolio URL)*
 
 ---
 
@@ -51,4 +68,5 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's build something awesome together.*
+⭐ *Thanks for visiting my profile! Let's build something awesome together.*  
+📫 *Feel free to connect or reach out — I’m always open to collaborating on interesting projects or new opportunities.*
