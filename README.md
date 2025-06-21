@@ -24,7 +24,8 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Algorithmic-blue?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank)
+
 
 ---
 
