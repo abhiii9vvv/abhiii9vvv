@@ -28,19 +28,19 @@
 
 
 ---
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Used | Live Demo |
 |--------|-------------|-----------|-----------|
-| 🧑‍🎓 [**SHARDA Alumni Portal**](https://github.com/abhiii9vvv/SHARDA-ALUMNI-PORTAL) | Alumni portal with auth, job board, events, admin dashboard. | MongoDB, Express, React, Node.js | [Live](#) |
-| 💼 [**Job Board**](https://github.com/abhiii9vvv/Job_Board) | Job platform with filters and glassmorphism UI. | Next.js, React, TypeScript | [Live](#) |
-| ❓ [**Quiz App**](https://github.com/abhiii9vvv/QuizAppLink) | 75+ questions, XP system, categories, timer-based quiz. | JavaScript, HTML, CSS | [Live](#) |
-| ✅ [**To-Do List App**](https://github.com/abhiii9vvv/todo-list-by-abhinav) | Task manager with filters, search, and themes. | JavaScript, HTML, CSS | [Live](#) |
-| 🌤️ [**Weather App**](https://github.com/abhiii9vvv/Weather_App) | City-based weather info using OpenWeather API. | JavaScript, HTML, CSS | [Live](#) |
-| 🎯 [**Weapon Detection System**](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM) | Detects weapons in images, webcam, and video input. | Python, YOLOv5, ONNX | [Live](#) |
+| 🧑‍🎓 **SHARDA Alumni Portal** ([GitHub](https://github.com/abhiii9vvv/SHARDA-ALUMNI-PORTAL)) | Alumni portal with auth, job board, events, admin dashboard. | MongoDB, Express, React, Node.js | [Live](#) |
+| 💼 **Job Board** ([GitHub](https://github.com/abhiii9vvv/Job_Board)) | Job platform with filters and glassmorphism UI. | Next.js, React, TypeScript | [Live](#) |
+| ❓ **Quiz App** ([GitHub](https://github.com/abhiii9vvv/QuizAppLink)) | 75+ questions, XP system, categories, timer-based quiz. | JavaScript, HTML, CSS | [Live](#) |
+| ✅ **To-Do List App** ([GitHub](https://github.com/abhiii9vvv/todo-list-by-abhinav)) | Task manager with filters, search, and themes. | JavaScript, HTML, CSS | [Live](#) |
+| 🌤️ **Weather App** ([GitHub](https://github.com/abhiii9vvv/Weather_App)) | City-based weather info using OpenWeather API. | JavaScript, HTML, CSS | [Live](#) |
+| 🎯 **Weapon Detection System** ([GitHub](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM)) | Detects weapons in images, webcam, and video input. | Python, YOLOv5, ONNX | [Live](#) |
 
-🌐 **[Check out my portfolio →](https://codewithabhinav.vercel.app/)**
+📌 Portfolio: [codewithabhinav.vercel.app](https://codewithabhinav.vercel.app/)
+
 ---
 
 ## 📊 GitHub Stats & Visitor Count
