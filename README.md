@@ -31,35 +31,14 @@
 
 ## 🚀 Featured Projects
 
-### 🧑‍🎓 [SHARDA Alumni Portal](https://github.com/abhiii9vvv/SHARDA-ALUMNI-PORTAL)  
-A full-stack platform for alumni networking. Features include authentication, event posts, job board, and admin panel. _Built with the MERN stack._
-
----
-
-### 💼 [Job Board](https://github.com/abhiii9vvv/Job_Board)  
-Modern job search platform with real-time filtering, glassmorphism UI, and global opportunities. _Built with Next.js, React & TypeScript._
-
----
-
-### ❓ [Quiz App](https://github.com/abhiii9vvv/QuizAppLink)  
-Interactive quiz platform featuring 75+ questions, category filters, XP system, and timers.
-
----
-
-### ✅ [To-Do List App](https://github.com/abhiii9vvv/todo-list-by-abhinav)  
-Animated task manager with filter, search, theme toggle, and localStorage support.
-
----
-
-### 🌤️ [Weather App](https://github.com/abhiii9vvv/Weather_App)  
-Simple weather info app using OpenWeather API. Displays temp, humidity & wind by city input.
-
----
-
-### 🎯 [Weapon Detection System](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM)  
-Real-time detection system using YOLOv5 + ONNX for images, webcam, and video stream inputs.
-
----
+| Project | Description | Tech Used | Live Demo |
+|--------|-------------|-----------|-----------|
+| 🧑‍🎓 [**SHARDA Alumni Portal**](https://github.com/abhiii9vvv/SHARDA-ALUMNI-PORTAL) | Alumni portal with auth, job board, events, admin dashboard. | MongoDB, Express, React, Node.js | [Live](#) |
+| 💼 [**Job Board**](https://github.com/abhiii9vvv/Job_Board) | Job platform with filters and glassmorphism UI. | Next.js, React, TypeScript | [Live](#) |
+| ❓ [**Quiz App**](https://github.com/abhiii9vvv/QuizAppLink) | 75+ questions, XP system, categories, timer-based quiz. | JavaScript, HTML, CSS | [Live](#) |
+| ✅ [**To-Do List App**](https://github.com/abhiii9vvv/todo-list-by-abhinav) | Task manager with filters, search, and themes. | JavaScript, HTML, CSS | [Live](#) |
+| 🌤️ [**Weather App**](https://github.com/abhiii9vvv/Weather_App) | City-based weather info using OpenWeather API. | JavaScript, HTML, CSS | [Live](#) |
+| 🎯 [**Weapon Detection System**](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM) | Detects weapons in images, webcam, and video input. | Python, YOLOv5, ONNX | [Live](#) |
 
 🌐 **[Check out my portfolio →](https://codewithabhinav.vercel.app/)**
 ---
