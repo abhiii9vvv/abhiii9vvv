@@ -31,12 +31,23 @@
 
 ## 🚀 Featured Projects
 
-- 🔗 [**SHARDA Alumni Portal**](https://github.com/abhiii9vvv/SHARDA-ALUMNI-PORTAL)
-- 💼 [**Job Board**](https://github.com/abhiii9vvv/Job_Board)
-- ❓ [**Quiz App**](https://github.com/abhiii9vvv/QuizAppLink)
-- ✅ [**To-Do List App**](https://github.com/abhiii9vvv/todo-list-by-abhinav)
-- 🌤️ [**Weather App**](https://github.com/abhiii9vvv/Weather_App)
-- 🎯 [**Weapon Detection System**](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM)
+- 🧑‍🎓 [**SHARDA Alumni Portal**](https://github.com/abhiii9vvv/SHARDA-ALUMNI-PORTAL)  
+  Full-stack web app for university alumni networking. Features user auth, event posts, job board & admin dashboard. *(MERN stack)*
+
+- 💼 [**Job Board**](https://github.com/abhiii9vvv/Job_Board)  
+  Modern job search platform with glassmorphism UI and real-time search. Built with **Next.js**, **React**, and **TypeScript**.
+
+- ❓ [**Quiz App**](https://github.com/abhiii9vvv/QuizAppLink)  
+  Interactive quiz platform with 75+ questions, category filters, XP system, and timer-based challenges.
+
+- ✅ [**To-Do List App**](https://github.com/abhiii9vvv/todo-list-by-abhinav)  
+  Animated and filterable task manager with search, theme toggle, and localStorage support.
+
+- 🌤️ [**Weather App**](https://github.com/abhiii9vvv/Weather_App)  
+  Real-time weather info app using the OpenWeather API. Simple UI for temperature, humidity, and wind speed by city.
+
+- 🎯 [**Weapon Detection System**](https://github.com/abhiii9vvv/WEPON-DETECTION-SYSTEM)  
+  Real-time AI system using YOLOv5 + ONNX for weapon detection via webcam, image, or video inputs.
 
 🌐 [**Check out my portfolio**](https://codewithabhinav.vercel.app/)
 
