@@ -29,17 +29,16 @@
 
 ---
 ## 🚀 Featured Projects
-SHARDA Alumni Portal – A platform for alumni to connect, view jobs, and events.
 
-Job Board – Job listing site with filters and modern UI.
+| Project Name              | Description                                  |
+|--------------------------|----------------------------------------------|
+| SHARDA Alumni Portal     | Connects alumni, jobs, and events.           |
+| Job Board                | Job site with filters and modern UI.         |
+| Quiz App                 | Timer-based quiz with XP and categories.     |
+| To-Do List App           | Task manager with themes and filters.        |
+| Weather App              | Real-time weather updates by city.           |
+| Weapon Detection System  | Detects weapons via AI in images/videos.     |
 
-Quiz App – Timer-based quiz app with XP and categories.
-
-To-Do List App – Task manager with themes and filters.
-
-Weather App – Real-time city-based weather info.
-
-Weapon Detection System – Detects weapons in images and videos using AI.
 
 🔗 **Portfolio** → [codewithabhinav.vercel.app](https://codewithabhinav.vercel.app/)
 
