@@ -29,15 +29,17 @@
 
 ---
 ## 🚀 Featured Projects
+SHARDA Alumni Portal – A platform for alumni to connect, view jobs, and events.
 
-| Project | Description | Tech Used | Live Demo |
-|--------|-------------|-----------|-----------|
-| 🧑‍🎓 SHARDA Alumni Portal | Alumni portal with auth, job board, events, admin dashboard. | MongoDB, Express, React, Node.js | [Live](#) |
-| 💼 Job Board | Job platform with filters and glassmorphism UI. | Next.js, React, TypeScript | [Live](#) |
-| ❓ Quiz App | 75+ questions, XP system, categories, timer-based quiz. | JavaScript, HTML, CSS | [Live](#) |
-| ✅ To-Do List App | Task manager with filters, search, and themes. | JavaScript, HTML, CSS | [Live](#) |
-| 🌤️ Weather App | City-based weather info using OpenWeather API. | JavaScript, HTML, CSS | [Live](#) |
-| 🎯 Weapon Detection System | Detects weapons in images, webcam, and video input. | Python, YOLOv5, ONNX | [Live](#) |
+Job Board – Job listing site with filters and modern UI.
+
+Quiz App – Timer-based quiz app with XP and categories.
+
+To-Do List App – Task manager with themes and filters.
+
+Weather App – Real-time city-based weather info.
+
+Weapon Detection System – Detects weapons in images and videos using AI.
 
 🔗 **Portfolio** → [codewithabhinav.vercel.app](https://codewithabhinav.vercel.app/)
 
