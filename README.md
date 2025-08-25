@@ -1,3 +1,6 @@
+<img width="1536" height="420" alt="image" src="https://github.com/user-attachments/assets/75d6a6b9-799e-417f-811b-28151fb8af75" />
+
+
 # Hey there, I'm Abhinav Tiwary
 
 ## 📋 Summary
