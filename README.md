@@ -1,5 +1,7 @@
 <img width="1536" height="279" alt="image" src="https://github.com/user-attachments/assets/295cce1a-4d59-474e-a034-0ac96c8a4900" />
 
+## Summary
+
 Passionate Computer Science student with hands-on experience in full-stack web development and AI integration. I specialize in creating user-centric applications using modern JavaScript frameworks and exploring innovative AI solutions. With a strong foundation in data structures and algorithms, I'm constantly learning and building projects that bridge the gap between technical excellence and real-world impact.
 
 **What drives me:** Transforming complex problems into elegant, scalable solutions while staying at the forefront of emerging technologies.
