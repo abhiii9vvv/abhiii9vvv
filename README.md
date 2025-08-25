@@ -1,7 +1,5 @@
 # Hey there, I'm Abhinav Tiwary
 
----
-
 ## 📋 Summary
 
 Passionate Computer Science student with hands-on experience in full-stack web development and AI integration. I specialize in creating user-centric applications using modern JavaScript frameworks and exploring innovative AI solutions. With a strong foundation in data structures and algorithms, I'm constantly learning and building projects that bridge the gap between technical excellence and real-world impact.
