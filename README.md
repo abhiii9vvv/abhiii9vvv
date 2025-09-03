@@ -102,30 +102,6 @@ const abhinav = {
 
 ---
 
-## 💡 Random Developer Quote
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 42 mins   ████████████▓░░░░   50.8% 
-React        4 hrs 15 mins   ██████▓░░░░░░░░░░   24.8% 
-Python       2 hrs 30 mins   ███▓░░░░░░░░░░░░░   14.6% 
-CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░    7.8% 
-Other        20 mins         ▓░░░░░░░░░░░░░░░░    2.0% 
-```
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
   
 ### 🎯 "Clean code always looks like it was written by someone who cares."
