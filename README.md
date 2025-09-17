@@ -1,3 +1,30 @@
+# 🌟 Welcome to My Digital Universe
+
+<div align="center">
+  <!-- Animated Header with Gradient Text -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D8FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=%F0%9F%8C%8C+ABHINAV+TIWARY;%E2%9A%A1+FULL-STACK+DEVELOPER" alt="Animated Name" />
+  </h1>
+  
+  <!-- Matrix Rain Effect ASCII -->
+  <pre>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=400&size=12&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88;%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88;%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88;%F0%9F%94%A5+ENTERING+THE+CODE+MATRIX+%F0%9F%94%A5" alt="Matrix Effect" />
+  </pre>
+  
+  <!-- Holographic Loading Bar -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=16&duration=4000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=500&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+LOADED" alt="Loading Bar" />
+  
+  <!-- Glitch Effect Welcome -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=1500&pause=800&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=800&lines=%F0%9F%92%AB+WELCOME+TO+MY+DIGITAL+REALM+%F0%9F%92%AB" alt="Welcome Message" />
+  
+  <br><br>
+  
+  <!-- Cyberpunk Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Tomorrow's+Solutions+Today;Code+%2B+Creativity+%3D+Innovation" alt="Typing SVG" />
 </div>
@@ -104,4 +131,33 @@ const abhinav = {
 
 *⭐️ Star my repositories if you find them helpful!*
 
+</div>
+
+---
+
+<!-- EPIC OUTRO SECTION -->
+<div align="center">
+  
+  <!-- Cyberpunk Outro Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+  <br><br>
+  
+  <!-- Terminal-Style Outro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=18&duration=2000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=150&lines=%24+echo+%22Thanks+for+visiting+my+profile%22;Thanks+for+visiting+my+profile;%24+git+add+.+%26%26+git+commit+-m+%22New+connection%22;%5Bmain+a1b2c3d%5D+New+connection;%24+echo+%22Let%27s+build+something+amazing+together%21%22;Let%27s+build+something+amazing+together%21" alt="Terminal Outro" />
+  
+  <!-- Glitch Effect Goodbye -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=1800&pause=500&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=800&lines=%E2%9A%A1+THANKS+FOR+THE+VISIT+%E2%9A%A1;%F0%9F%9A%80+SEE+YOU+IN+THE+CODE+UNIVERSE+%F0%9F%9A%80;%F0%9F%92%BB+KEEP+CODING%2C+KEEP+CREATING+%F0%9F%92%BB" alt="Outro Message" />
+  
+  <!-- Matrix Exit Effect -->
+  <pre>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=400&size=12&duration=1500&pause=300&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88;%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88;%F0%9F%8C%8C+EXITING+THE+MATRIX+%F0%9F%8C%8C;%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88%E2%96%93%E2%96%91%E2%96%88" alt="Matrix Exit" />
+  </pre>
+  
+  <!-- Final Signature -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=400&size=16&duration=2500&pause=1000&color=4FC3F7&background=00000000&center=true&vCenter=true&multiline=false&repeat=false&width=600&lines=%F0%9F%92%A0+Crafted+with+%E2%9D%A4%EF%B8%8F+by+Abhinav+Tiwary+%F0%9F%92%A0" alt="Signature" />
+  
+  <!-- Holographic Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=🌟%20Until%20Next%20Time%20🌟&fontSize=20&fontColor=fff&animation=twinkling"/>
+  
 </div>
