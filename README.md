@@ -3,10 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling"/>
 </div>
 
-<div align="center">
-  <!-- Holographic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling"/>
-</div>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D8FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=%F0%9F%8C%8C+ABHINAV+TIWARY;%E2%9A%A1+FULL-STACK+DEVELOPER" alt="Animated Name" />
+  </h1>
 
 ## 👨‍💻 About Me
 
