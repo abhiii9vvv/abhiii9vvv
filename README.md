@@ -60,7 +60,7 @@ const abhinav = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiii9vvv&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abhiii9vvv&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
