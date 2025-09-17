@@ -1,6 +1,4 @@
 <div align="center">
-  <!-- Holographic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling"/>
   <h1 style="margin-top: 0;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00D8FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=ABHINAV+TIWARY;FULL-STACK+DEVELOPER" alt="Animated Name" />
   </h1>
