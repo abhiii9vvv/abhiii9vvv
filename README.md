@@ -6,23 +6,6 @@
   </h1>
 </div>
 
-
-## 👨‍💻 About Me
-
-```javascript
-const abhinav = {
-    pronouns: "he/him",
-    location: "India 🇮🇳",
-    currentFocus: "AI Integration & Full-Stack Development",
-    philosophy: "Simplicity is the ultimate sophistication",
-    
-    currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-    askMeAbout: ["Web Development", "AI Integration", "Data Structures", "Problem Solving"],
-    
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
 ## 🛠️ Tech Stack
 
 <div align="center">
