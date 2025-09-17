@@ -60,8 +60,9 @@ const abhinav = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhiii9vvv&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abhiii9vvv&theme=algolia&hide_border=true&cache_bust=1" alt="GitHub Streak" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
