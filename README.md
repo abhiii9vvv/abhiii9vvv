@@ -55,12 +55,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+<!-- Main stats (official endpoint + lower cache) -->
+<img src="https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600" />
 
+<!-- Streak stats -->
 <img src="https://streak-stats.demolab.com?user=abhiii9vvv&theme=algolia&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+<!-- Top languages (official endpoint + lower cache) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&langs_count=8&theme=algolia&hide_border=true&cache_seconds=86400" />
 
+<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 </div>
