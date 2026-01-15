@@ -58,69 +58,51 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abhiii9vvv&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </div>
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&custom_title=Contribution%20Graph&bg_color=141321&color=FF4D5A&line=FF4D5A&point=FFFFFF&area_color=FF4D5A&area=true&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhiii9vvv&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiii9vvv&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 📊 Detailed Analytics
+## 📈 Contribution Activity
 
 <div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiii9vvv&theme=radical)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiii9vvv&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiii9vvv&theme=radical" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiii9vvv&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiii9vvv&theme=radical&utcOffset=5.5" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&bg_color=050f2c&color=00d8ff&line=00d8ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <a href="https://av9.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhinav-tiwary-791a63302/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Abhiii9vv_/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:gyanutiwari758@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhiii9vvv&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🎮 GitHub Activity Snake
+## 📊 Detailed GitHub Insights
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiii9vvv&theme=algolia" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiii9vvv&theme=algolia" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiii9vvv&theme=algolia" alt="Top Languages by Commit"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiii9vvv&theme=algolia" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiii9vvv&theme=algolia&utcOffset=5.5" alt="Commits by Hour"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -132,11 +114,38 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Developer Quote
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+</div>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://av9.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-tiwary-791a63302/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Abhiii9vv_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:gyanutiwari758@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20Views&color=00d8ff&style=flat)](https://github.com/abhiii9vvv)
+[![GitHub followers](https://img.shields.io/github/followers/abhiii9vvv?label=Followers&style=social)](https://github.com/abhiii9vvv?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/abhiii9vvv?label=Stars&style=social)](https://github.com/abhiii9vvv)
 
 </div>
 
@@ -144,17 +153,14 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20Views&color=ff4d5a&style=flat-square)
-![Followers](https://img.shields.io/github/followers/abhiii9vvv?label=Followers&style=social)
+### 💭 *"Clean code always looks like it was written by someone who cares."*
 
-**"Clean code always looks like it was written by someone who cares."**
-
-⭐️ *Star my repositories if you find them helpful!*
+#### ⭐ Star my repositories if you find them helpful!
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling"/>
 </div>
