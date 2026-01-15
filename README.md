@@ -58,47 +58,45 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abhiii9vvv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=abhiii9vvv&theme=tokyonight&hide_border=true" alt="Contributor Stats" />
+![GitHub Streak](https://streak-stats.demolab.com?user=abhiii9vvv&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&custom_title=Contribution%20Graph&bg_color=141321&color=FF4D5A&line=FF4D5A&point=FFFFFF&area_color=FF4D5A&area=true&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiii9vvv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhiii9vvv&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
 </div>
 
 ---
 
-## 📊 Profile Summary
+## 📊 Detailed Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiii9vvv&theme=tokyonight" alt="Profile Summary" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiii9vvv&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiii9vvv&theme=tokyonight" alt="Most Commit Language" />
-</div>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiii9vvv&theme=radical)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiii9vvv&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiii9vvv&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiii9vvv&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiii9vvv&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiii9vvv&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiii9vvv&theme=radical&utcOffset=5.5" />
+
 </div>
 
 ---
@@ -137,18 +135,18 @@
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abhiii9vvv?label=Followers&style=social" alt="Followers" />
-</div>
-
-<div align="center">
   
+![Profile Views](https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20Views&color=ff4d5a&style=flat-square)
+![Followers](https://img.shields.io/github/followers/abhiii9vvv?label=Followers&style=social)
+
 **"Clean code always looks like it was written by someone who cares."**
 
 ⭐️ *Star my repositories if you find them helpful!*
@@ -159,4 +157,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</di
+</div>
