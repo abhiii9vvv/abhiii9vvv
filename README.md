@@ -55,31 +55,11 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiii9vvv&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&bg_color=050f2c&color=00d8ff&line=00d8ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhiii9vvv&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -114,13 +94,6 @@
 
 ---
 
-## 💡 Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
-</div>
-
----
 
 ## 🤝 Connect With Me
 
