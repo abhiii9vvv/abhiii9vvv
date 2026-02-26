@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00D8FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=ABHINAV+TIWARY;MERN-STACK+DEVELOPER" alt="Animated Name" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00D8FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=ABHINAV+TIWARY;FULL-STACK+DEVELOPER" alt="Animated Name" />
 </h1>
 
 ## 🛠️ Tech Stack
