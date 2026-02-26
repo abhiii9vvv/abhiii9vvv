@@ -1,125 +1,10 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00D8FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=ABHINAV+TIWARY;FULL-STACK+DEVELOPER" alt="Animated Name" />
-</h1>
-
-## 🛠️ Tech Stack
-
 <div align="center">
-
-### Languages
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-</p>
-
-### Frontend
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="TailwindCSS"/>
-</p>
-
-### Backend & Database
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-</p>
-
-### Tools & Technologies
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
-</p>
-
-</div>
-
----
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiii9vvv&bg_color=050f2c&color=00d8ff&line=00d8ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 📊 Detailed GitHub Insights
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiii9vvv&theme=algolia" alt="Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiii9vvv&theme=algolia" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiii9vvv&theme=algolia" alt="Top Languages by Commit"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiii9vvv&theme=algolia" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhiii9vvv&theme=algolia&utcOffset=5.5" alt="Commits by Hour"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/abhiii9vvv/abhiii9vvv/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-
-## 🚀 Space Shooter Game
-
-<div align="center">
-
-> **Your GitHub contribution graph — now a Space Shooter game!** Enemies represent your daily commits. Defeat them all!
-
-![Space Shooter Game](game.gif)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d8ff&height=200&section=header&text=ABHINAV%20TIWARY&fontSize=45&fontColor=ffffff&fontAlignY=38&fontFamily=Georgia&desc=Full-Stack%20Developer%20%7C%20Gen%20AI%20Engineer&descSize=17&descColor=a0c4ff&descAlignY=58&animation=fadeIn" />
 </div>
 
 
-## 🤝 Connect With Me
-
 <div align="center">
-  <a href="https://av9.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhinav-tiwary-791a63302/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Abhiii9vv_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:gyanutiwari758@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
 
----
-
-<div align="center">
-  
 [![Profile Views](https://komarev.com/ghpvc/?username=abhiii9vvv&label=Profile%20Views&color=00d8ff&style=flat)](https://github.com/abhiii9vvv)
 [![GitHub followers](https://img.shields.io/github/followers/abhiii9vvv?label=Followers&style=social)](https://github.com/abhiii9vvv?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/abhiii9vvv?label=Stars&style=social)](https://github.com/abhiii9vvv)
@@ -128,16 +13,113 @@
 
 ---
 
+### 🛠️ Tech Stack
+
 <div align="center">
-  
-### 💭 *"Clean code always looks like it was written by someone who cares."*
 
-#### ⭐ Star my repositories if you find them helpful!
+**💻 Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT%20Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Password Hashing](https://img.shields.io/badge/Password%20Hashing-525252?style=flat&logoColor=white)
+![Middleware](https://img.shields.io/badge/Middleware-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-007ACC?style=flat&logoColor=white)
+
+**🌐 Frontend**
+
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**🗄️ Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**⚙️ DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**🧩 Programming**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FFA116?style=flat&logo=leetcode&logoColor=black)
+
+**🚀 Generative AI**
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00d8ff?style=flat&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-00b4d8?style=flat&logoColor=white)
+![RAG Architecture](https://img.shields.io/badge/RAG%20Architecture-023e8a?style=flat&logoColor=white)
+![AI Chatbot Development](https://img.shields.io/badge/AI%20Chatbot%20Development-0096c7?style=flat&logoColor=white)
+![AI Recommendation Systems](https://img.shields.io/badge/AI%20Recommendation%20Systems-0077b6?style=flat&logoColor=white)
+
+**🧠 AI Tools / Models**
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![GPT APIs](https://img.shields.io/badge/GPT%20APIs-74aa9c?style=flat&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat&logoColor=white)
+
+</div>
+
+---
+### 🎮 Commit Invaders
+
+<div align="center">
+  <img src="game.gif" alt="Space Shooter Game"/>
+</div>
+
+---
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abhiii9vvv&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</div>
+
+---
+
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://av9.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-tiwary-791a63302/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Abhiii9vv_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:gyanutiwari758@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling"/>
+
+*"Clean code always looks like it was written by someone who cares."*
+
+⭐ Star my repositories if you find them helpful!
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d8ff,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 </div>
