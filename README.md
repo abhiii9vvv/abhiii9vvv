@@ -80,12 +80,6 @@
 
 ---
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=abhiii9vvv&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abhiii9vvv&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abhiii9vvv&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
