@@ -88,6 +88,17 @@
 ---
 
 
+## 🚀 Space Shooter Game
+
+<div align="center">
+
+> **Your GitHub contribution graph — now a Space Shooter game!** Enemies represent your daily commits. Defeat them all!
+
+![Space Shooter Game](game.gif)
+
+</div>
+
+
 ## 🤝 Connect With Me
 
 <div align="center">
