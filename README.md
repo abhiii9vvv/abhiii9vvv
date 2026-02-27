@@ -1,8 +1,8 @@
 <div align="center">
 
-# 𝑨𝒃𝒉𝒊𝒏𝒂𝒗 𝑻𝒊𝒘𝒂𝒓𝒚
-
 ### 𝑮𝒍𝒂𝒅 𝒀𝒐𝒖’𝒓𝒆 𝑯𝒆𝒓𝒆 ✨
+
+# 𝑨𝑩𝑯𝑰𝑵𝑨𝑽 𝑻𝑰𝑾𝑨𝑹𝒀
 
 **Full-Stack Developer × Gen AI Engineer**
 
@@ -15,6 +15,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/abhiii9vvv?label=Stars&style=social)](https://github.com/abhiii9vvv)
 
 </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,git,docker" />
+</p>
 
 <div align="center">
   <img src="game.gif" alt="Space Shooter Game"/>
