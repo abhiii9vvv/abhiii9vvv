@@ -16,7 +16,7 @@
 
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,git,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,git,docker,aws" />
 </p>
 
 <div align="center">
